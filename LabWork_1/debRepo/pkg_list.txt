@@ -1,0 +1,177 @@
+v  apache-tools - 
+p  apache2 - HTTP сервер Apache
+p  apache2:i386 - HTTP сервер Apache
+v  apache2-api-20120211 - 
+v  apache2-api-20120211:i386 - 
+v  apache2-api-20120211-openssl1.1 - 
+v  apache2-api-20120211-openssl1.1:i386 - 
+p  apache2-bin - Apache HTTP Server (modules and other binary files)
+p  apache2-bin:i386 - Apache HTTP Server (modules and other binary files)
+p  apache2-data - Apache HTTP Server (common files)
+v  apache2-data:i386 - 
+p  apache2-dev - Apache HTTP Server (development headers)
+p  apache2-dev:i386 - Apache HTTP Server (development headers)
+p  apache2-doc - Apache HTTP Server (on-site documentation)
+p  apache2-ssl-dev - Apache HTTP Server (mod_ssl development headers)
+p  apache2-ssl-dev:i386 - Apache HTTP Server (mod_ssl development headers)
+v  apache2-suexec - 
+v  apache2-suexec:i386 - 
+p  apache2-suexec-custom - Apache HTTP Server configurable suexec program for mod_suexec
+p  apache2-suexec-custom:i386 - Apache HTTP Server configurable suexec program for mod_suexec
+p  apache2-suexec-pristine - Apache HTTP Server standard suexec program for mod_suexec
+p  apache2-suexec-pristine:i386 - Apache HTTP Server standard suexec program for mod_suexec
+p  apache2-utils - HTTP сервер Apache (утиліти для веб-серверів)
+p  apache2-utils:i386 - HTTP сервер Apache (утиліти для веб-серверів)
+p  apacheds - Apache Directory Server
+p  apachetop - Утиліта для моніторингу Apache в реальному часі
+p  dehydrated-apache2 - dehydrated challenge response support for Apache2
+v  dh-apache2 - 
+v  dh-apache2:i386 - 
+p  elpa-apache-mode - Emacs major mode for editing Apache configuration files
+p  golang-github-eapache-go-xerial-snappy-dev - Xerial-compatible Snappy framing support for Go
+p  golang-gopkg-eapache-channels.v1-dev - collection of helpers around golang's existing channels
+p  golang-gopkg-eapache-go-resiliency.v1-dev - resiliency patterns for golang
+p  golang-gopkg-eapache-queue.v1-dev - fast golang queue using ring-buffer
+p  kopano-webapp-apache2 - WebApp for the Kopano Collaboration Platform - Apache2
+p  libapache-admin-config-perl - module to read/write Apache like configuration files
+p  libapache-asp-perl - perl Apache::ASP - Active Server Pages for Apache with mod_perl
+p  libapache-authenhook-perl - Perl API for Apache 2.1 authentication
+p  libapache-authznetldap-perl - Apache-Perl module that enables to authorize a user with LDAP attributes
+p  libapache-db-perl - module to run the interactive Perl debugger under mod_perl
+p  libapache-dbi-perl - interface connecting Apache server to database via perl's DBI
+p  libapache-dbilogger-perl - Perl module for tracking what's being transferred in a DBI database
+p  libapache-directory-api-java - Apache Directory LDAP API
+p  libapache-directory-jdbm-java - ApacheDS JDBM Implementation
+p  libapache-gallery-perl - Apache module to create image galleries on-the-fly
+p  libapache-htgroup-perl - interface to Apache authentication group files
+p  libapache-htpasswd-perl - module to manage Unix crypt-style password file
+p  libapache-jena-java - Java framework for building Semantic Web applications
+p  libapache-logformat-compiler-perl - Perl module to pre-compile a LogFormat string
+p  libapache-mime4j-java - MIME and RFC822 parser for Java
+p  libapache-mod-jk-doc - Documentation of libapache2-mod-jk package
+p  libapache-opennlp-java - machine learning based toolkit for the processing of natural language text
+p  libapache-poi-java - Apache POI - Java API for Microsoft Documents
+p  libapache-poi-java-doc - Apache POI - Java API for Microsoft Documents (Documentation)
+p  libapache-pom-java - Maven metadata for all Apache Software projects
+p  libapache-session-browseable-perl - module adding index and search methods to Apache::Session
+p  libapache-session-ldap-perl - LDAP implementation of Apache::Session
+p  libapache-session-memcached-perl - Perl module for storing persistent data using memcached
+p  libapache-session-mongodb-perl - implementation of Apache::Session
+p  libapache-session-perl - modules for keeping persistent user data across HTTP requests
+p  libapache-session-sqlite3-perl - SQLite3 implementation of Apache::Session
+p  libapache-session-wrapper-perl - simple wrapper around Apache::Session
+p  libapache-sessionx-perl - extended persistence framework for session data
+p  libapache-singleton-perl - Singleton class for mod_perl
+p  libapache-ssllookup-perl - glue layer between Perl handlers and the mod_ssl public API
+p  libapache2-authcassimple-perl - Apache2 module to authenticate trough a CAS server
+p  libapache2-authcookie-perl - Perl Authentication and Authorization via cookies
+p  libapache2-mod-apparmor - changehat AppArmor library as an Apache module
+p  libapache2-mod-apparmor:i386 - changehat AppArmor library as an Apache module
+p  libapache2-mod-apreq2 - generic Apache request library - Apache module
+p  libapache2-mod-auth-cas - CAS authentication module for Apache2
+p  libapache2-mod-auth-gssapi - GSSAPI Authentication module for Apache2
+p  libapache2-mod-auth-kerb - apache2 module for Kerberos authentication
+p  libapache2-mod-auth-mellon - SAML 2.0 authentication module for Apache
+p  libapache2-mod-auth-openid - OpenID authentication module for Apache2
+p  libapache2-mod-auth-openidc - OpenID Connect Relying Party implementation for Apache
+p  libapache2-mod-auth-pgsql - Module for Apache2 which provides PostgreSQL authentication
+p  libapache2-mod-auth-plain - Module for Apache2 which provides plaintext authentication
+p  libapache2-mod-auth-pubtkt - key-based single-sign-on authentication module for Apache
+p  libapache2-mod-auth-radius - Apache 2.x module for RADIUS authentication
+p  libapache2-mod-auth-tkt - lightweight single-sign-on authentication module for Apache
+p  libapache2-mod-authn-sasl - SASL authentication backend provider for Apache
+p  libapache2-mod-authn-yolo - Yolo style authentication for Apache 2
+p  libapache2-mod-authn-yubikey - Yubikey authentication provider for Apache
+p  libapache2-mod-authnz-external - authenticate Apache against external authentication services
+p  libapache2-mod-authnz-pam - PAM authorization checker and PAM Basic Authentication provider
+p  libapache2-mod-authz-unixgroup - access control based on on unix group membership for Apache
+p  libapache2-mod-bw - bandwidth limiting module for apache2
+p  libapache2-mod-defensible - module for Apache2 which provides DNSBL usage
+p  libapache2-mod-dnssd - Підтримка Zeroconf для Apache 2 за допомогою Avahi
+p  libapache2-mod-encoding - Apache2 module for non-ascii filename interoperability
+p  libapache2-mod-evasive - evasive module to minimize HTTP DoS or brute force attacks
+p  libapache2-mod-fcgid - FastCGI interface module for Apache 2
+p  libapache2-mod-form - Apache module to decode data submitted from Web forms
+p  libapache2-mod-form-dev - Apache module to decode data submitted from Web forms (development files)
+p  libapache2-mod-geoip - GeoIP support for apache2
+p  libapache2-mod-gnutls - Apache module for TLS encryption with GnuTLS
+p  libapache2-mod-intercept-form-submit - Apache module to intercept login form submission and run PAM authentication
+p  libapache2-mod-jk - Apache 2 connector for the Tomcat Java servlet engine
+p  libapache2-mod-ldap-userdir - Apache module that provides UserDir lookups via LDAP
+p  libapache2-mod-ldap-userdir-dbg - Debugging symbols for mod_ldap_userdir
+p  libapache2-mod-lisp - An Apache2 module that interfaces with Lisp environments
+p  libapache2-mod-log-slow - Apache module for logging of slow requests handling
+p  libapache2-mod-log-sql - Use SQL to store/write your Apache queries logs - Base
+p  libapache2-mod-log-sql-dbi - Use SQL to store/write your Apache queries logs - DBI interface
+p  libapache2-mod-log-sql-mysql - Use SQL to store/write your Apache queries logs - MySQL interface
+p  libapache2-mod-log-sql-ssl - Use SQL to store/write your Apache queries logs - SSL extension
+p  libapache2-mod-lookup-identity - Apache module to retrieve additional information about the authenticated user
+p  libapache2-mod-mapcache - tile caching server - Apache module
+p  libapache2-mod-md - Перехідний пакунок
+p  libapache2-mod-md:i386 - Перехідний пакунок
+p  libapache2-mod-mime-xattr - Apache2 module to get MIME info from filesystem extended attributes
+p  libapache2-mod-mono - Apache module for running ASP.NET applications on Mono
+p  libapache2-mod-musicindex - Browse, stream, download and search through MP3/Ogg/FLAC files
+p  libapache2-mod-neko - Apache module for running server-side Neko programs
+p  libapache2-mod-netcgi-apache - OCaml application-level Internet libraries - netcgi2 Apache2 connector
+v  libapache2-mod-ocamlnet - 
+p  libapache2-mod-parser3 - Parser 3, HTML-embedded scripting language (Apache2 module)
+p  libapache2-mod-passenger - web application server - apache2 integration
+p  libapache2-mod-perl2 - Інтегрування Perl у веб-сервер Apache2
+p  libapache2-mod-perl2-dev - Integration of perl with the Apache2 web server - development files
+p  libapache2-mod-perl2-doc - Integration of perl with the Apache2 web server - documentation
+p  libapache2-mod-php - server-side, HTML-embedded scripting language (Apache 2 module) (default)
+v  libapache2-mod-php:i386 - 
+p  libapache2-mod-php7.4 - Transitional package
+p  libapache2-mod-php7.4:i386 - Transitional package
+p  libapache2-mod-php8.0 - Transitional package
+p  libapache2-mod-php8.0:i386 - Transitional package
+p  libapache2-mod-php8.1 - Серверна мова сценаріїв що вбудовується у HTML (модуль Apache 2)
+p  libapache2-mod-php8.1:i386 - Серверна мова сценаріїв що вбудовується у HTML (модуль Apache 2)
+p  libapache2-mod-proxy-uwsgi - Перехідний пакунок
+p  libapache2-mod-proxy-uwsgi:i386 - Перехідний пакунок
+p  libapache2-mod-python - Модуль Python для Apache 2
+p  libapache2-mod-python-doc - Python-embedding module for Apache 2 - documentation
+p  libapache2-mod-qos - quality of service module for the apache2
+p  libapache2-mod-r-base - server-side R integration with Apache 2
+p  libapache2-mod-removeip - Module to remove IP from apache2's logs
+p  libapache2-mod-rivet - Server-side Tcl programming system combining ease of use and power
+p  libapache2-mod-rivet-doc - Documentation for Rivet, a server-side Tcl programming system
+p  libapache2-mod-rpaf - module for Apache2 which takes the last IP from the 'X-Forwarded-For' header
+p  libapache2-mod-ruid2 - suexec module for Apache 2
+p  libapache2-mod-ruwsgi - uwsgi module for Apache2 (mod_Ruwsgi)
+p  libapache2-mod-ruwsgi-dbg - debugging symbols for Apache2 mod_Ruwsgi
+p  libapache2-mod-security2 - Tighten web applications security for Apache
+p  libapache2-mod-shib - Federated web single sign-on system (Apache module)
+p  libapache2-mod-svn - Apache Subversion server modules for Apache httpd
+p  libapache2-mod-tile - Apache module to deliver tiles created by renderd
+p  libapache2-mod-upload-progress - upload progress support for the Apache web server
+p  libapache2-mod-uwsgi - uwsgi module for Apache2 (mod_uwsgi)
+p  libapache2-mod-uwsgi-dbg - debugging symbols for Apache2 mod_uwsgi
+p  libapache2-mod-vhost-ldap - Apache 2 module for Virtual Hosting from LDAP
+p  libapache2-mod-watchcat - Process monitoring Apache module
+p  libapache2-mod-wsgi-py3 - Python 3 WSGI adapter module for Apache
+p  libapache2-mod-xforward - Apache module implements redirection based on X-Forward response header
+p  libapache2-mod-xsendfile - Serve large static files efficiently from web applications
+p  libapache2-mpm-itk - multiuser module for Apache
+p  libapache2-reload-perl - module for reloading Perl modules when changed on disk
+p  libapache2-request-perl - generic Apache request library - Perl modules
+p  libapache2-sitecontrol-perl - perl web site authentication/authorization system
+p  libapacheds-i18n-java - Apache Directory Server (i18n)
+p  libapacheds-java - Apache Directory Server (Libraries)
+p  libapacheds-kerberos-codec-java - Apache Directory Server (Kerberos Codec)
+p  libcatalyst-engine-apache-perl - Catalyst engine for Apache 1.x and 2.x
+p  libconfig-apacheformat-perl - Perl module to parse Apache format config files
+p  libmasonx-request-withapachesession-perl - Session handler in the Mason Request object
+p  liboauth2-apache-dev - Generic oauth2 and OIDC library (apache2 bindings development)
+p  liboauth2-apache0 - Generic oauth2 and OIDC library (apache2 bindings)
+p  mono-apache-server - ASP.NET backend for mod_mono Apache module - default version
+p  mono-apache-server4 - ASP.NET 4.5 backend for mod_mono Apache module
+p  netdata-apache2 - real-time performance monitoring (apache integration)
+p  open-infrastructure-apache-tools - additional tools for Apache HTTP server
+p  prometheus-apache-exporter - Prometheus exporter for Apache server metrics
+p  puppet-module-puppetlabs-apache - Puppet module for Apache
+p  python3-certbot-apache - Apache plugin for Certbot
+p  rt4-apache2 - Apache 2 specific files for request-tracker4
+p  rt5-apache2 - Apache 2 specific files for request-tracker5
+v  torrus-apache2 - 

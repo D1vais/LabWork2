@@ -1,0 +1,3 @@
+cd
+ls
+aptitude search apache > pkg_list.txt
